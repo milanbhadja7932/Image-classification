@@ -23,6 +23,13 @@ The dataset contains images of faces with blood and faces without blood, your ta
   -> Pooling layer<br>
   -> Flattening<br>
   -> Fully connected layer<br>
+  
+# Dataset
+    The folders are as follows:<br>
+
+    1. Blood : Faces contaning blood<br>
+    2. NoBlood : Faces not containing blood<br>
+    3. Faces: Contains cropped images of faces <br>
  
  
 
