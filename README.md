@@ -17,6 +17,13 @@ The dataset contains images of faces with blood and faces without blood, your ta
   -> Tensorflow<br>
   -> matplotlib<br>
   -> scipy<br>
+  
+# Layers
+  -> Convolution layer
+  -> Pooling layer
+  -> Flattening
+  -> Fully connected layer
+ 
  
 
  # OUTPUT
