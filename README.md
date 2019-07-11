@@ -30,4 +30,4 @@ The dataset contains images of faces with blood and faces without blood, your ta
  
  We get output as a text label particular image in which classes.
  
-<img src="image" width="300" title="hover text"> 
+<img src="screenshot(37).png" width="300" title="hover text"> 
