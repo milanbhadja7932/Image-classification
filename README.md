@@ -19,10 +19,10 @@ The dataset contains images of faces with blood and faces without blood, your ta
   -> scipy<br>
   
 # Layers
-  -> Convolution layer
-  -> Pooling layer
-  -> Flattening
-  -> Fully connected layer
+  -> Convolution layer<br>
+  -> Pooling layer<br>
+  -> Flattening<br>
+  -> Fully connected layer<br>
  
  
 
