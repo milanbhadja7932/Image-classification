@@ -12,11 +12,11 @@ The dataset contains images of faces with blood and faces without blood, your ta
   
 # Requirements
 
-  -> keras
-  -> numpy
-  -> Tensorflow
-  -> matplotlib
-  -> scipy
+  -> keras<br>
+  -> numpy<br>
+  -> Tensorflow<br>
+  -> matplotlib<br>
+  -> scipy<br>
  
 
  # OUTPUT
