@@ -30,4 +30,4 @@ The dataset contains images of faces with blood and faces without blood, your ta
  
  We get output as a text label particular image in which classes.
  
-<img src="Screenshot(37).png" width="300" > 
+<img src="https://github.com/milanbhadja7932/classification/blob/master/Screenshot%20(37).png" width="300" > 
